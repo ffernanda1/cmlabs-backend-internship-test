@@ -12,5 +12,4 @@ function fizzBuzz(){
         }
     } return angka
 }
-console.log("data")
 console.log(fizzBuzz())
